@@ -1,0 +1,6 @@
+For low-light applications, it is possible to increase the ADC integration time. Normally, the integration time is
+25.6 µs. By increasing this integration time to 410 µs, the ADC can detect light levels as low as 1 lx. The ADC can
+be programmed with an integration time as high as 3.28 ms, allowing measurement to 100 mlx light levels. The
+ADC integration time for the Visible Light Ambient measurement can be programmed independently of the ADC
+integration time of the Infrared Light Ambient measurement. The independent ADC parameters allow operation
+under glass covers having a higher transmittance to Infrared Light than Visible Light.
